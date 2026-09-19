@@ -1,9 +1,15 @@
 # shadowless-light
+<img src="screenshots/20260919_145904.jpg" alt="indicator schemadic" width="50%"><img src="screenshots/20260919_145859.jpg" alt="indicator schemadic" width="50%">
 ***
 ## description
 {youtube link}<br>
 this is a desk light designed to not cast a shadow to make working on fine details easier<br>
 it works by having a main light then there is octogon ring around it that has lights and will tilt in and out to make sure every spot has at least one light on it<br>
+
+| regular light                                      | shadowless ligh                                                       |
+|----------------------------------------------------|-----------------------------------------------------------------------|
+| <img src="screenshots/20260919_150550.jpg" alt="indicator schemadic"> | <img src="screenshots/20260919_150609.jpg" alt="indicator schemadic"> 
+
 ### use cases
 * soldering
 * painting fine detail
