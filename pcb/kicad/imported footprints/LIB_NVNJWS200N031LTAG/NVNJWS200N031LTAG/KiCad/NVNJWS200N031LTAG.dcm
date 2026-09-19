@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NVNJWS200N031LTAG
+D Low RDS (on); AEC-Q101 Qualified and PPAP Capable; Wettable Flank; ESD Protected Gate; This is a Pb-Free Device
+K
+F https://www.onsemi.com/pub/Collateral/NVNJWS200N031L-D.PDF
+$ENDCMP
+#
+#End Doc Library
