@@ -1,4 +1,5 @@
 # shadowless-light
+## if you are a Stardance reviewer i messed up when doing the ship it has the wrong banner and video
 <img src="screenshots/20260919_145904.jpg" alt="indicator schemadic" width="50%"><img src="screenshots/20260919_145859.jpg" alt="indicator schemadic" width="50%">
 ***
 ## description
