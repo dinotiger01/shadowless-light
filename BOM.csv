@@ -1,0 +1,21 @@
+NAME,QUANTITY,PRICE,LINK
+nano,1,$25,https://store-usa.arduino.cc/products/arduino-nano
+power supply 12v,1,$12, https://www.amazon.com/dp/B010CVIW7E?lv=shuf&rsd=ATj4dCg6SgOhyY8enxQH7bSd3GmLCO%2F0nJolGraAnxtWpqubkWL2wraL9Q66vIkLuy8Xdaq0JLsRfzwG5USyOwSXa2KAvPiro5lzAHrZIkzT7Rq8&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQFhA6nMtnb0%2BEiTMd57oEHpAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMUacLl6tZLBrftDnnAgEQgDuzBA82GhyuI9gX36eCZh%2B%2FM0jADUwMN4y586p9%2FAFPPZ6IcgYd2DdAvNH1adXSOWdng4U%2FfXCReJHn1Q%3D%3D&social_share=cm_sw_r_cso_sms_apan_dp_GGAZXVV0BGJ71F6GEWRQ&channelId=704&plpRedirect=mhFallback
+power supply 5v,1,$7,https://www.amazon.com/Charger-TePoo-Adapter-Charging-Samsung/dp/B08LKKWNMB?crid=16B0EKHP69FVF&dib=eyJ2IjoiMSJ9.GQS5q7mwwG4q7yHfiYuXBpc9gRuoRyetwTuE2cp-jp8f5Mil65JtfrFKKH2goYKcGn3zk2Nu_4aws4j6tnC0SdT4oGyAZNHyKvwInIyf6II5Afv5ZqPNZyjrXn4b1YWorT6c11CJ6BgBomMR9rbKe-6jt5xorUcFU7GcspXYkPLEbP96ROWAohy_qUWHR7A7JPdgyAaj8hYq1gQ-2UL6xJz3pk2yOu1Rq9CSLhEJlPA.QDy8eh4tYoC6y3hAb7F0Gg97rivmWdq0XLN94h7UYN4&dib_tag=se&keywords=5v%2Bcharger&qid=1789940426&sprefix=5v%2B%2Caps%2C231&sr=8-4&th=1
+solder,1,$13,https://www.amazon.com/dp/B076QF1Y85?lv=shuf&channelId=425&plpRedirect=mhFallback&th=1
+4pin JST,9,$9,https://www.amazon.com/dp/B0DPJBGLJN?lv=shuf&channelId=425&plpRedirect=mhFallback&th=1
+2pin JST,11,$11,https://www.amazon.com/dp/B0C725395C?lv=shuf&channelId=425&plpRedirect=mhFallback
+wall mount,1,$27,https://www.amazon.com/dp/B0BP9MLV8X?lv=shuf&channelId=425&plpRedirect=mhFallback
+150ohm smd,20,$5,https://www.amazon.com/dp/B08R8FR3X7?lv=shuf&rsd=rXijgEvWbRLhHR3Gj9w1BYtPi5tCmITAoLjK6487e%2FA05VTbUrbVMQyBLi5vXDOVKQ9b635VkQWmtsBILIHICd7r8RQcwR%2FyGPSvXdthWhsj&edk=AQIDAHi1lw%2FM8UbbSMD9ScOOFEmBMHMthHeEhqDaQYPJUAX3jQF2NTaw1euc707Tx8KKNFzJAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMiCRe04oiTUXojDpfAgEQgDveol5oEWm2ASOwHA2BZiz0dXDdJde%2FACHuM0NPxPv4c9zb92k0pIQTpTDNfSsbdoZTDdTITC7%2F3w0KiA%3D%3D&social_share=cm_sw_r_cso_sms_apan_dp_52D0K2CVMQTDSV86D1QG&channelId=704&plpRedirect=mhFallback&th=1
+UV lights,20,$6,https://www.amazon.com/dp/B01CUGA0CE?lv=shuf&channelId=425&plpRedirect=mhFallback&th=1
+WRGB light,101,$40,https://www.mouser.com/en/ProductDetail/941-CLW6ATKWC90C0723
+mosfet,37,$17,https://www.mouser.com/en/ProductDetail/781-SI2300DS-T1-GE3
+510ohm resistor smd,101,$10,https://www.mouser.com/en/ProductDetail/71-CRCW0805510RFKEAH
+470ohm resistor smd,303,$7,https://www.mouser.com/en/ProductDetail/279-CRGCQ1206F470R
+220ohm resistor tht,37,$5,https://www.amazon.com/California-JOS-Resistance-CJ50-004-220/dp/B0BDKQSZHM?dib=eyJ2IjoiMSJ9.pq8IXZtwkjU13efAoUQ01zBUlR2f2Y7f-E16x07ioTKYOwKh74jaeP0cnR0W_t07TuM39a3EwyTAyaHAG43TQJK6gSZpTDrjCfN_NmtPO-Sh1MaNFp5BqzfEKhepQjemZApKRPAn4d6PZ2hK_Ze7HK4n3CzzKPv8KkvU3XaoOMtGDL57WIGCM1KTZbwJYcGYpnCeqvDZFCITfszIsAtIiYDk4G8g6u1mp6uwzzMUfPo.tpeKjdqYUrSnPaUSqtXFdwTc0s09DafhU15jXsTSNKI&dib_tag=se&keywords=220%2Bohm%2Bresistor&qid=1789940230&sr=8-3&th=1
+10kohm resistor tht,5,$4.https://www.amazon.com/California-JOS-Resistance-CJ50-004-220/dp/B0BDKY8VQG?dib=eyJ2IjoiMSJ9.pq8IXZtwkjU13efAoUQ01zBUlR2f2Y7f-E16x07ioTKYOwKh74jaeP0cnR0W_t07TuM39a3EwyTAyaHAG43TQJK6gSZpTDrjCfN_NmtPO-Sh1MaNFp5BqzfEKhepQjemZApKRPAn4d6PZ2hK_Ze7HK4n3CzzKPv8KkvU3XaoOMtGDL57WIGCM1KTZbwJYcGYpnCeqvDZFCITfszIsAtIiYDk4G8g6u1mp6uwzzMUfPo.tpeKjdqYUrSnPaUSqtXFdwTc0s09DafhU15jXsTSNKI&dib_tag=se&keywords=220%2Bohm%2Bresistor&qid=1789940230&sr=8-3&th=1
+wires you need a lot of wires
+about $30 of plastic i used PLA
+pcbs were like $40
+total: 268
+
