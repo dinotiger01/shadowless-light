@@ -2,7 +2,7 @@
 <img src="screenshots/20260919_145904.jpg" alt="indicator schemadic" width="50%"><img src="screenshots/20260919_145859.jpg" alt="indicator schemadic" width="50%">
 ***
 ## description
-{youtube link}<br> test
+demo video: https://youtu.be/H-r51vnOVfs<br>
 this is a desk light designed to not cast a shadow to make working on fine details easier<br>
 it works by having a main light then there is octogon ring around it that has lights and will tilt in and out to make sure every spot has at least one light on it<br>
 
@@ -24,7 +24,14 @@ it works by having a main light then there is octogon ring around it that has li
 i cover this in the yt video a lot better
 ***
 ### 3d print
-settings<br>
+settings:<br>
+plastic: pla<br>
+supports: trees<br>
+layer hight: 0.28mm<br>
+nozzle: 0.4mm<br>
+nozzle temp: 210°C<br>
+bed temp: 60°C<br>
+infill: 15%<br>
 
 | number | name|
 | -------- | ------- |
